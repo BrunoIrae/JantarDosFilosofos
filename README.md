@@ -21,5 +21,6 @@ No problema, cinco filósofos estão sentados em uma mesa circular com cinco gar
 
 ## Imagem
 <div align="center">
-<img src="https://github.com/ljraguiar/Projeto-EducaLivros-Online-HTML-e-CSS-/assets/104568215/6ecd9627-3078-4e07-8922-5cba2b2f93f4" width="700px"/>
+<img src="https://github.com/user-attachments/assets/8a648ab1-2e53-415a-8780-c020e5962f12" width="700px"/>
+ 
 </div>
