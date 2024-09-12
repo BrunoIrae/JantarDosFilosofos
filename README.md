@@ -1,6 +1,6 @@
 # Jantar dos Filósofos
 
-Este é Simula o problema clássico do **Jantar dos Filósofos**, onde filósofos alternam entre comer e pensar.
+Simula o problema clássico do **Jantar dos Filósofos**, onde filósofos alternam entre comer e pensar.
 
 ## Descrição
 
